@@ -55,7 +55,7 @@ Stars, sponsorships, and accepted Discussion answers are outside this farm's cur
 
 At the start, [Zachary260325](https://github.com/Zachary260325?tab=achievements) publicly displayed **Pull Shark bronze (×2)** and **Quickdraw**, checked on October 16, 2026. Our first new target is YOLO. Pair Extraordinaire is a separate experiment, not a promised reward.
 
-The [experiment log](docs/EXPERIMENTS.md) separates completed actions from badges visibly awarded. The [contribution guide](CONTRIBUTING.md) explains how new features become PRs.
+The [first feature PR](https://github.com/Zachary260325/commit-critters/pull/1) passed GitHub Actions and was self-merged with Codex credit. Neither target badge was visible at our first check immediately afterward. The [experiment log](docs/EXPERIMENTS.md) records the evidence and separates completed actions from badges visibly awarded. The [contribution guide](CONTRIBUTING.md) explains how new features become PRs.
 
 ## Work on the critter
 

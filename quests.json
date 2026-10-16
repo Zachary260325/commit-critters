@@ -1,7 +1,7 @@
 [
   {
     "name": "YOLO",
-    "status": "first new target",
+    "status": "experiment merged; badge not yet observed",
     "unlock": "Merge your own pull request without code review.",
     "steps": [
       "Put a small feature on a branch and open a pull request in your own repo.",
