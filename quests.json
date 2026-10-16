@@ -1,0 +1,46 @@
+[
+  {
+    "name": "YOLO",
+    "status": "first new target",
+    "unlock": "Merge your own pull request without code review.",
+    "steps": [
+      "Put a small feature on a branch and open a pull request in your own repo.",
+      "Run the project's checks, then merge the pull request without a formal review.",
+      "Check your GitHub profile and record whether the badge appears."
+    ],
+    "note": "Automated checks and code review are different. Badge timing is not guaranteed."
+  },
+  {
+    "name": "Pair Extraordinaire",
+    "status": "AI eligibility unverified",
+    "unlock": "Have a pull request containing a co-authored commit merged.",
+    "steps": [
+      "Work with a contributor and add a Co-authored-by trailer for their actual contribution.",
+      "Use their chosen GitHub-linked email, keeping a blank line before the trailer.",
+      "Merge the pull request with the trailer preserved and verify the profile separately."
+    ],
+    "note": "Codex attribution alone is not proof that GitHub recognizes an eligible co-author."
+  },
+  {
+    "name": "Pull Shark",
+    "status": "owner already has bronze",
+    "unlock": "Have 2 pull requests merged. Higher tiers: 16, 128, and 1024.",
+    "steps": [
+      "Propose a feature or useful documentation change through a pull request.",
+      "Have it merged; a closed but unmerged PR does not meet the recipe.",
+      "Continue with useful changes and check your profile for tier upgrades."
+    ],
+    "note": "Commits and merged pull requests are different units. This pet counts local commits only."
+  },
+  {
+    "name": "Quickdraw",
+    "status": "owner already has it",
+    "unlock": "Close an issue or pull request within 5 minutes of opening it.",
+    "steps": [
+      "Open a small maintenance issue in a repository you own.",
+      "Complete the task, then close the issue within 5 minutes of opening it.",
+      "Check your profile; record the outcome rather than assuming the badge was awarded."
+    ],
+    "note": "Use your own farm for the experiment. One completed task is enough to try the recipe."
+  }
+]
