@@ -10,7 +10,7 @@ This repo openly farms easy GitHub achievements while building a small terminal 
 2. Make a small change, such as adding the critter or improving its quest board.
 3. Commit and push the branch, then open a pull request into the default branch.
 4. Run the project's checks. Self-merge the PR without a formal code review.
-5. Visit your profile's Achievements section. Add the PR URL and the observed outcome to [the log](EXPERIMENTS.md).
+5. Visit your profile's Achievements section. Add the PR URL and the observed outcome to [the process log](PROCESS.md).
 
 CI passing is compatible with this experiment: automated tests are different from a code review. Use a personal project whose rules allow self-merging; leave another project's review requirements in place.
 
@@ -50,8 +50,6 @@ We credit Codex when it contributes, and will record whether GitHub recognizes t
 
 Your own repository can be used for the experiment. Creating commits directly on the default branch is not the same as having PRs merged. Local commit totals from `critters.py` therefore cannot tell you your badge progress.
 
-Zachary260325 already displayed bronze at the start of this project. Silver is a longer-term target, not a reason to manufacture 112 tiny PRs.
-
 ## Quickdraw: finish a small task promptly
 
 **Observed trigger:** close an issue or PR within **5 minutes** of opening it.
@@ -61,8 +59,6 @@ Zachary260325 already displayed bronze at the start of this project. Silver is a
 3. Run the check and note the result.
 4. Close the issue within five minutes of its opening time.
 5. Check your profile and record what appears.
-
-Zachary260325 already displayed this badge at the start. Other visitors can use the recipe in their own repositories.
 
 ## Leave these crops for later
 

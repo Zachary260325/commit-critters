@@ -12,8 +12,8 @@ This is an achievement farm with a real terminal toy attached. Small contributio
 
 The maintainer can self-merge small personal-project PRs for the YOLO experiment after checks pass. New PRs should improve the toy or its documentation; there is no automatic loop that creates PRs just to inflate a counter.
 
-## Record observations
+## Record the process
 
 For badge experiments, include the merged PR URL, the co-author attribution when relevant, and what the profile actually displayed. A merged PR is evidence of a merge; it does not by itself prove an achievement was awarded.
 
-See [the recipes](docs/ACHIEVEMENTS.md) and [field notes](docs/EXPERIMENTS.md). Keep any badge experiments in repositories you own or where the maintainer explicitly welcomes them.
+See [the recipes](docs/ACHIEVEMENTS.md) and [process](docs/PROCESS.md). Keep any badge experiments in repositories you own or where the maintainer explicitly welcomes them.
